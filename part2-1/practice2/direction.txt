@@ -1,0 +1,3 @@
+Review how to create object files and link them to become an executable file.
+
+Target: Create a file with main function, a header file with one function declaration, and another to implement the function.
