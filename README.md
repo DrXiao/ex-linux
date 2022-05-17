@@ -1,5 +1,6 @@
 # Extra Course - Linux Tutorial
 ## Directory Structure
+```
 ./
 ├── part1-2
 │   ├── alpha.txt
@@ -41,3 +42,4 @@
 │   └── practice2
 │       └── direction.txt
 └── README.md
+```
